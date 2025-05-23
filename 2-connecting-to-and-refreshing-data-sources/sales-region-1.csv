@@ -1,0 +1,11 @@
+Region,Date,Customer,Product,Units Sold,Unit Price,Total Sales
+1,1/11/2024,Lambda Inc,Widget B,12,30,360
+1,1/12/2024,Mu LLC,Widget A,18,25,450
+1,1/13/2024,Nu Co,Widget C,9,35,315
+1,1/14/2024,Xi Ltd,Widget B,21,30,630
+1,1/15/2024,Omicron Corp,Widget A,14,25,350
+1,1/16/2024,Pi Inc,Widget C,16,35,560
+1,1/17/2024,Rho LLC,Widget A,10,25,250
+1,1/18/2024,Sigma Co,Widget B,15,30,450
+1,1/19/2024,Tau Ltd,Widget C,13,35,455
+1,1/20/2024,Upsilon Corp,Widget A,11,25,275
